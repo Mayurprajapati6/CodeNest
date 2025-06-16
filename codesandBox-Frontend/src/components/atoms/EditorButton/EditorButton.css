@@ -1,0 +1,13 @@
+.Editor-button {
+    outline: none;
+    background-color: #413e59;
+    font-size: 14px;
+    height: 30px;
+    border-left: none;
+    border-bottom: none;
+    border-top: 2px solid #796cd9;
+    color: wheat;
+    min-width: 100px;
+    padding: 3px 7px 3px 7px;
+}
+
