@@ -24,7 +24,7 @@ export const EditorComponent = () => {
     <>
       {themeData && (
         <Editor
-          height="80vh"
+          height="100vh"
           width="100%"
           defaultLanguage="javascript"
           defaultValue="// Welcome to the playground"
